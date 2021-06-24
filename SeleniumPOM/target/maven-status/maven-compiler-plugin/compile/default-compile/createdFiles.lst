@@ -1,0 +1,6 @@
+com\pages\HomePage.class
+com\pages\LoginPage.class
+com\ExtentReport\ExtentReporterNG.class
+com\base\BaseClass.class
+com\pages\ProductPage.class
+com\pages\AddtoCartPage.class

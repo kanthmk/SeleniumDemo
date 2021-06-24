@@ -1,0 +1,15 @@
+2021-06-24 16:44:34,808  INFO [main] LoginPage:30 - Entering username and password
+2021-06-24 16:44:34,817 ERROR [main] LoginPage:31 - error message
+2021-06-24 16:44:34,818 DEBUG [main] LoginPage:32 - debug message
+2021-06-24 16:44:34,818  WARN [main] LoginPage:33 - warn message
+2021-06-24 16:44:34,819 FATAL [main] LoginPage:34 - fatal message
+2021-06-24 16:44:42,053  INFO [main] LoginPage:30 - Entering username and password
+2021-06-24 16:44:42,054 ERROR [main] LoginPage:31 - error message
+2021-06-24 16:44:42,054 DEBUG [main] LoginPage:32 - debug message
+2021-06-24 16:44:42,055  WARN [main] LoginPage:33 - warn message
+2021-06-24 16:44:42,055 FATAL [main] LoginPage:34 - fatal message
+2021-06-24 16:44:47,362  INFO [main] LoginPage:30 - Entering username and password
+2021-06-24 16:44:47,363 ERROR [main] LoginPage:31 - error message
+2021-06-24 16:44:47,363 DEBUG [main] LoginPage:32 - debug message
+2021-06-24 16:44:47,363  WARN [main] LoginPage:33 - warn message
+2021-06-24 16:44:47,364 FATAL [main] LoginPage:34 - fatal message
