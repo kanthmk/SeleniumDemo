@@ -16,12 +16,12 @@ public class HomePage extends BaseClass{
 	{
 		PageFactory.initElements(driver, this);
 	}
+	//Choosing product
 	public ProductPage chooseproduct()
 	{
 		actions = new Actions(driver);
 		actions.moveToElement(item);
 		item.click();
-		
 		return new ProductPage();
 	}
 	
