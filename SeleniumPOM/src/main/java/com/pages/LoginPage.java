@@ -23,10 +23,12 @@ public class LoginPage extends BaseClass {
 	
 	public LoginPage() 
 	{
+		//Initializing page object elements
 		PageFactory.initElements(driver, this);
 	}
 	public HomePage Login(String un,String pwd)
 	{
+		//Using Logs
 		log.info("Entering username and password");
 		log.error("error message");
 		log.debug("debug message");
