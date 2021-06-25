@@ -25,7 +25,7 @@ public class BaseClass {
 		properties = new Properties();
 		
 		try {
-			FileInputStream fip = new FileInputStream("C:\\eclpse-workspace\\SeleniumPOM\\Testdata\\config.properties");
+			FileInputStream fip = new FileInputStream("C:\\Users\\Admin\\git\\SeleniumDemo\\SeleniumPOM\\Testdata\\config.properties");
 			properties.load(fip);
 		} catch (FileNotFoundException e) {
 			e.printStackTrace();
